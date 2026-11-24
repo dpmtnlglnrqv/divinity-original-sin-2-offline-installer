@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.13.6 High Sierra |
+| **Processor** | Min: Intel Core i5 or equivalent / Rec: Intel Core i7 or equivalent | Core i5 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 550 or ATI™ Radeon™ HD 6XXX or hig… / Rec: NVIDIA GeForce GTX 770 or AMD R9 280 | HD Graphics 5000 or Radeon R9 M290X |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 60 GB available space | 20 GB available space |
+| **OS *** | Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 1… | Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 1… |
+| **Additional Notes** | Min: Minimum requirements may change during development. / Rec: Recommended requirements may change during development. | Nvidia GPUs are not supported at this time and will lik… |
 
 ---
 
